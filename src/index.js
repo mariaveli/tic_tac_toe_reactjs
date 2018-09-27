@@ -1,0 +1,1 @@
+import TicTacToe from "./js/components/container/TicTacToe";
